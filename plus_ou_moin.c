@@ -61,7 +61,7 @@ int main(int argc, char const *argv[]) { // peut s'ecrire "int main ()"
                                         printf("C'est plus !\n");
                                 }
                                 if (reponse == nombreMystere) {
-                                        printf("Koulchi Mebrouke ! le nombre mystére étais = %d\n",nombreMystere);
+                                        printf("Bravo ! le nombre mystére étais = %d\n",nombreMystere);
                                         printf("Vous avez fait %d tantative(s)\n", compteur);
                                 }
                         } while (reponse != nombreMystere);
